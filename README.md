@@ -29,7 +29,7 @@ Shuyue Xue, Mohammad Maghrebi, George I. Mias, Carlo Piermarocchi.
 arXiv preprint [arXiv:2501.00983](https://arxiv.org/abs/2501.00983)
 
 **The Code**  
-DOI: [10.5281/zenodo.16503491](https://doi.org/10.5281/zenodo.16503491)  
+DOI: [10.5281/zenodo.16503490](https://doi.org/10.5281/zenodo.16503490)  
 Or use the "Cite this repository" button in the About panel (top right of this page) for citation formats like BibTeX or APA.
 
 ## License
