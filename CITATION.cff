@@ -11,7 +11,7 @@ authors:
   - family-names: Piermarocchi
     given-names: Carlo
 version: "1.0.0"
-doi: 10.5281/zenodo.16503491
+doi: 10.5281/zenodo.16503490
 date-released: 2025-07-27
 url: https://github.com/shuyue13/non-reciprocal-Hopfield
 repository-code: https://github.com/shuyue13/non-reciprocal-Hopfield
