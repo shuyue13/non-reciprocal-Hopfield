@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the following metadata."
+title: "Code for: Critical Dynamics and Cyclic Memory Retrieval in Non-reciprocal Hopfield Networks"
+authors:
+  - family-names: Xue
+    given-names: Shuyue
+  - family-names: Maghrebi
+    given-names: Mohammad
+  - family-names: Mias
+    given-names: George I.
+  - family-names: Piermarocchi
+    given-names: Carlo
+version: "1.0.0"
+doi: 10.5281/zenodo.16503491
+date-released: 2025-07-27
+url: https://github.com/shuyue13/non-reciprocal-Hopfield
+repository-code: https://github.com/shuyue13/non-reciprocal-Hopfield
+license: MIT
