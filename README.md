@@ -21,7 +21,16 @@ Contains some simulation outputs and numerical solutions. While not comprehensiv
 
 ## Citation
 
-Manuscript under review. Citation details will be provided upon publication.
+If you use this code or data in your research, please cite the following:
+
+**The Paper**  
+Shuyue Xue, Mohammad Maghrebi, George I. Mias, Carlo Piermarocchi.  
+*"Critical Dynamics and Cyclic Memory Retrieval in Non-reciprocal Hopfield Networks."*  
+arXiv preprint [arXiv:2501.00983](https://arxiv.org/abs/2501.00983)
+
+**The Code**  
+DOI: [10.5281/zenodo.16503491](https://doi.org/10.5281/zenodo.16503491)  
+Or use the "Cite this repository" button at the top of this page for various formats (BibTeX, APA, etc.).
 
 ## License
 
